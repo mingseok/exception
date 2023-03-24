@@ -1,7 +1,7 @@
 package com.example.exception;
 
-import com.example.exception.interceptor.LogInterceptor;
-import com.example.exception.resolver.MyHandlerExceptionResolver;
+import com.example.exception.exception.interceptor.LogInterceptor;
+import com.example.exception.exception.resolver.MyHandlerExceptionResolver;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.web.servlet.HandlerExceptionResolver;
 import org.springframework.web.servlet.config.annotation.InterceptorRegistry;

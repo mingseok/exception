@@ -1,4 +1,4 @@
-package com.example.exception.resolver;
+package com.example.exception.exception.resolver;
 
 import com.example.exception.exception.UserException;
 import com.fasterxml.jackson.databind.ObjectMapper;

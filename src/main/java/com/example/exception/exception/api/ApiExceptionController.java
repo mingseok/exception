@@ -1,4 +1,4 @@
-package com.example.exception.api;
+package com.example.exception.exception.api;
 
 import com.example.exception.exception.UserException;
 import lombok.AllArgsConstructor;

@@ -1,4 +1,4 @@
-package com.example.exception.exhandler;
+package com.example.exception.exception.exhandler;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

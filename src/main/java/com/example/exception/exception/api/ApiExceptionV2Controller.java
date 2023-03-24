@@ -1,18 +1,14 @@
-package com.example.exception.api;
+package com.example.exception.exception.api;
 
 import com.example.exception.exception.UserException;
-import com.example.exception.exhandler.ErrorResult;
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.extern.slf4j.Slf4j;
-import org.springframework.http.HttpStatus;
-import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 
 @Slf4j
 @RestController
 public class ApiExceptionV2Controller {
-
 
 
     @GetMapping("/api2/members/{id}")

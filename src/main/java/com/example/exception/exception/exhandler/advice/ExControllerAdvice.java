@@ -1,7 +1,7 @@
-package com.example.exception.exhandler.advice;
+package com.example.exception.exception.exhandler.advice;
 
 import com.example.exception.exception.UserException;
-import com.example.exception.exhandler.ErrorResult;
+import com.example.exception.exception.exhandler.ErrorResult;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
